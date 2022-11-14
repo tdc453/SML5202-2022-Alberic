@@ -1,3 +1,9 @@
 .myBanner {
-  background:rgb(186,85,211);
+  background:rgba(186,85,211);
+}
+html {
+height: 100%;
+}
+body {
+background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
 }

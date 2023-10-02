@@ -1,6 +1,6 @@
 .myBanner {
   background: orange;
-  background-image: linear-gradient(to right, red , yellow);
-  color: brown;
+  background-image: linear-gradient(to right, cornflowerblue , cadetblue);
+  color: cadetblue;
 } 
 
